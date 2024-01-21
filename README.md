@@ -28,10 +28,26 @@ Looking forward, in the short term, we plan to keep refining the data, exploring
 
 In the long term, expansion beyond Montreal and potentially reaching other cities in Quebec or across Canada. This growth would provide our service to a wider audience, making ShouldIMove a helpful tool for people considering relocating to different regions.
 
+## Interfaces
+
+### Dashboard
+<img width="1440" alt="Screenshot 2024-01-21 at 5 27 14 PM" src="https://github.com/asha97/conuhacksviii_project/assets/85359230/a74a97ce-19ba-40fb-98e8-c80ecc6b6aba">
+
+### Safety Statistics Activity
+<img width="1440" alt="Screenshot 2024-01-21 at 5 27 31 PM" src="https://github.com/asha97/conuhacksviii_project/assets/85359230/2ae36e88-8565-464a-afcf-e7c84e9d12e4">
+
 ## Built With
+
+### Front-End + Back-End
+React, Vite, MaterialUI
+
+### Database
+Generated a Python script using multiple libraries to generate a master.json file with arrays of relevant data. Used concepts of AI/ML.
 
 ## Try it out
 https://shouldimove.tech
+
+Deployed Version -> https://65ad3da12b475277e40cc374--spontaneous-bublanina-d38761.netlify.app/safety 
 
 ## Previous repository: 
 https://github.com/malekoa/conuhacksviii
